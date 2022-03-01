@@ -1,0 +1,19 @@
+{
+  "name": "fahad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malikfahadrasool/fahad.git"
+  },
+  "author": "Fahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malikfahadrasool/fahad/issues"
+  },
+  "homepage": "https://github.com/malikfahadrasool/fahad#readme"
+}
